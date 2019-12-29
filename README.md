@@ -3,6 +3,7 @@
 > Hi, here I would like to present my solutions from https://projecteuler.net
 
 ## Table of solutions
+* solution - description 
 * [Task5](https://github.com/aiflops/ProjectEuler/blob/master/Task5.cs) -   [Smallest multiple](https://projecteuler.net/problem=5)
 * [Task11](https://github.com/aiflops/ProjectEuler/blob/master/Task11.cs) - [Largest product in a grid](https://projecteuler.net/problem=11)
 * [Task21](https://github.com/aiflops/ProjectEuler/blob/master/Task21.cs) - [Amicable numbers](https://projecteuler.net/problem=21)
