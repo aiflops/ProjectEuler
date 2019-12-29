@@ -3,7 +3,7 @@
 > Hi, here I would like to present my solutions from https://projecteuler.net
 
 ## Table of solutions
-* [Task5](aiflops.com) -  [Smallest multiple](https://projecteuler.net/problem=5)
+* [Task5](aiflops.com) -   [Smallest multiple](https://projecteuler.net/problem=5)
 * [Task11](aiflops.com) - [Largest product in a grid](https://projecteuler.net/problem=11)
 * [Task21](#task21) - [Amicable numbers](https://projecteuler.net/problem=21)
 * [Task22](#task22) - [Names scores](https://projecteuler.net/problem=22)
