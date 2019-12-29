@@ -19,4 +19,4 @@
 * C# - Console Aplication .NET Core
 
 ## Contact
-Created by [@aiflops.com](https://aiflops.com/pl/home/) - feel free to contact me!
+Created by [aiflops.com](https://aiflops.com/pl/home/) - feel free to contact me!
